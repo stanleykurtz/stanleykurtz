@@ -21,17 +21,18 @@ Strong knowledge of Java, and databases (MySQL, PostgreSQL, MariaDB). Continuous
         />
     </a>
 </p>
-
+<br/>
 
 ## 🚀 About me
 - 🛠️ System Analyst with experience in software development, systems infrastructure and web servers management.
 - 📊 Strong knowledge of Java, PHP, and databases (MySQL, PostgreSQL), with a proven track record of delivering high availability, security, and performance.
 
+<br/>
 
 ## 🔗 Let's Connect
 - 📫 Reach me on [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/stanleykurtz) or follow my projects right here on [GitHub](https://github.com/stanleykurtz)!
 
-
+<br/>
 
 ## 🤖 Hard Skills and Technologies
 <div style="display: inline_block">
@@ -186,3 +187,5 @@ Strong knowledge of Java, and databases (MySQL, PostgreSQL, MariaDB). Continuous
   />
 
 </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stanleykurtz&theme=transparent)
