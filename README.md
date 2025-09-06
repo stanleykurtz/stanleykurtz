@@ -168,6 +168,16 @@ Strong knowledge of Java, and databases (MySQL, PostgreSQL, MariaDB). Continuous
 <br/>
 <br/>
 
+## 💭 Soft Skills 
+- **Communication:** Ability to explain technical concepts clearly and accessible to different audiences.
+
+- **Problem Solving:** Ability to analyze complex scenarios and propose approved solutions to meet specific needs.
+
+- **Adaptability:** Easily adapt to changes in projects, priorities, and technologies.
+
+- **Strategic Vision:** Ability to anticipate needs and have a broad view of projects and teams.
+<br/>
+
 ## 📊 Stats
 
 <p>
