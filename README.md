@@ -34,15 +34,15 @@ Strong knowledge of Java, and databases (MySQL, PostgreSQL, MariaDB). Continuous
 
 
 ## 🤖 Hard Skills and Technologies
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+<div style="display: inline_block">
+    <img 
+        align="left" 
+        alt="Java"
+        title="Java" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
 <img 
     align="left" 
     alt="PHP" 
@@ -163,6 +163,7 @@ Strong knowledge of Java, and databases (MySQL, PostgreSQL, MariaDB). Continuous
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
+</div>
 <br/>
 <br/>
 
